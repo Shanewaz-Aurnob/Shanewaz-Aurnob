@@ -68,8 +68,8 @@ A mobile application that detects and classifies pet facial expressions using de
 ## 📫 Contact & Links
 - 💻 GitHub: https://github.com/Shanewaz-Aurnob  
 - 🌐 Portfolio: https://shanewaz-aurnob.github.io  
-- 📄 Google Scholar: *(to be added)*  
-- 🔗 LinkedIn: *(to be added)*
+- 📄 Google Scholar: https://scholar.google.com/citations?user=umBalUIAAAAJ&hl=en&oi=ao
+- 🔗 LinkedIn: www.linkedin.com/in/shanewaz-aurnob
 
 ---
 
