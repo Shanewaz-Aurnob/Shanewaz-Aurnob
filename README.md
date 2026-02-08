@@ -54,7 +54,9 @@ I love learning new tech, collaborating on projects, and solving real-world prob
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat)  
 
 **Design Tools:**  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) 
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat) 
+![draw.io](https://img.shields.io/badge/-draw.io-0082C9?logo=draw.io&logoColor=white&style=flat)  
 
 ---
 
