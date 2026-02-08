@@ -5,72 +5,78 @@
 
 I am a CSE graduate with a strong research focus on **Artificial Intelligence**, **Natural Language Processing**, and **Crisis Informatics**. My work primarily explores **Bangla NLP** and **social media–based crisis analysis** using machine learning and deep learning techniques.
 
----
 
-## 🔬 Research Interests
-- NLP
-- Crisis Informatics  
-- Bangla NLP & Low-resource Languages  
-- Multi-class & Multi-label Text Classification  
-- Transformer-based Deep Learning Models  
-- Social Media Analysis for Emergency Response
 
----
+<!--
+**ShanewazAurnob/ShanewazAurnob** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+-->
 
-## 🧠 Undergraduate Thesis
-### **Crisis Response through Social Cues Analysis**
-A research-driven NLP project focused on analyzing Bangla social media posts during flood events.
+![Header](./banner.png)
 
-**Key Contributions:**
-- Curated and annotated a Bangla flood-related social media dataset  
-- Designed a **multi-label classification framework** for crisis social cues  
-- Applied deep learning and transformer-based models for robust classification
-
-**Impact:**
-This work aims to support **emergency response analysis** and **decision-making systems** during natural disasters in Bangladesh.
+<h1 align="center">Hello There! 👋</h1>
+<h3 align="center">I’m Shanewaz Aurnob – A Passionate Developer Exploring Web, Mobile & AI/ML 🌱</h3>
 
 ---
 
-## 🚀 Selected Projects
-
-### **Smart Attendance System**
-A secure and scalable web-based attendance management system designed for academic institutions.
-
-- QR code–based session authentication  
-- Secret session tokens with time constraints  
-- Real-time attendance validation and fraud prevention  
-- Modular backend architecture
-
-**Tech Stack:** React, TypeScript, Express.js, MySQL, Kysely
+### 🌟 About Me
+- 🔭 **Currently working on:** Smart Attendance System & AI/ML experiments  
+- 🌱 **Currently learning:** Next.js, TypeScript, TensorFlow.js  
+- 👯 **Looking to collaborate on:** Open-source web and mobile projects  
+- 💬 **Ask me about:** React, Node.js, AI/ML, Full-stack development  
+- ⚡ **Fun fact:** I love turning complex problems into elegant code solutions  
 
 ---
 
-### **PetEmote – Facial Expression Recognition App**
-A mobile application that detects and classifies pet facial expressions using deep learning models.
+### 🛠 Tech Stack
 
-- Image-based expression recognition  
-- TensorFlow.js models integrated with mobile UI  
-- Firebase-backed backend services
+**Languages:**  
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat) 
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
 
-**Tech Stack:** React Native, TensorFlow.js, Firebase
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)  
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) 
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)  
+
+**Mobile App:**  
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat)  
+
+**Database:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)  
+
+**BaaS & Tools:**  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) 
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)  
 
 ---
 
-## 🛠 Technical Skills
-- **Languages:** Python, TypeScript, JavaScript, SQL  
-- **AI / ML:** TensorFlow, PyTorch, Scikit-learn  
-- **NLP:** Transformers, Text Classification, Dataset Annotation  
-- **Web:** React, Node.js, Express.js, MySQL  
-- **Tools:** Git, Docker, LaTeX, SQL Workbench
+### 📊 GitHub Stats
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShanewazAurnob&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShanewazAurnob&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShanewazAurnob" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📫 Contact & Links
-- 💻 GitHub: https://github.com/Shanewaz-Aurnob  
-- 🌐 Portfolio: https://shanewaz-aurnob.github.io  
-- 📄 Google Scholar: https://scholar.google.com/citations?user=umBalUIAAAAJ&hl=en&oi=ao
-- 🔗 LinkedIn: www.linkedin.com/in/shanewaz-aurnob
+### 📫 Contact Me
+- 📧 **Email:** shanewaz.aurnob@gmail.com  
+- 🌐 **Portfolio:** [shanewazaurnob.com](https://shanewazaurnob.com)  
+- 💬 **Connect on LinkedIn:** [linkedin.com/in/shanewazaurnob](https://linkedin.com/in/shanewazaurnob)
 
 ---
 
-⭐ *This profile highlights my academic research background and applied software engineering experience. I am open to research assistant roles, AI/NLP engineer positions, and graduate research opportunities.*
