@@ -5,7 +5,7 @@
 ![Header](./banner.png)
 
 <h1 align="center">Hello! 👋</h1>
-<h3 align="center">I'm **Shanewaz Aurnob
+<h3 align="center">I'm Shanewaz Aurnob
 
 🎓 **Computer Science & Engineering Graduate** — University of Chittagong  
 🤖 **AI & NLP Researcher** | 💻 **Software Engineer**
