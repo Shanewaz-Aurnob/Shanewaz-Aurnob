@@ -10,7 +10,6 @@
 🎓 **Computer Science & Engineering Graduate** — University of Chittagong  
 🤖 **AI & NLP Researcher** | 💻 **Software Engineer**
 
-I am a CSE graduate with a strong research focus on **Artificial Intelligence**, **Natural Language Processing**, and **Crisis Informatics**. My work primarily explores **Bangla NLP** and **social media–based crisis analysis** using machine learning and deep learning techniques.L 🌱</h3>
 
 ---
 
