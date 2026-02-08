@@ -17,7 +17,7 @@ I am a CSE graduate with a strong research focus on **Artificial Intelligence**,
 ---
 
 ## 🧠 Undergraduate Thesis
-### **Bangladesh Recent Flood Social Cue Detection**
+### **Crisis Response through Social Cues Analysis**
 A research-driven NLP project focused on analyzing Bangla social media posts during flood events.
 
 **Key Contributions:**
