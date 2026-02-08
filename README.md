@@ -8,6 +8,7 @@ I am a CSE graduate with a strong research focus on **Artificial Intelligence**,
 ---
 
 ## 🔬 Research Interests
+- NLP
 - Crisis Informatics  
 - Bangla NLP & Low-resource Languages  
 - Multi-class & Multi-label Text Classification  
