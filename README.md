@@ -1,12 +1,3 @@
-# 👋 Hi, I'm **Shanewaz Aurnob**
-
-🎓 **Computer Science & Engineering Graduate** — University of Chittagong  
-🤖 **AI & NLP Researcher** | 💻 **Software Engineer**
-
-I am a CSE graduate with a strong research focus on **Artificial Intelligence**, **Natural Language Processing**, and **Crisis Informatics**. My work primarily explores **Bangla NLP** and **social media–based crisis analysis** using machine learning and deep learning techniques.
-
-
-
 <!--
 **ShanewazAurnob/ShanewazAurnob** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
@@ -14,20 +5,28 @@ I am a CSE graduate with a strong research focus on **Artificial Intelligence**,
 ![Header](./banner.png)
 
 <h1 align="center">Hello There! 👋</h1>
-<h3 align="center">I’m Shanewaz Aurnob – A Passionate Developer Exploring Web, Mobile & AI/ML 🌱</h3>
+<h3 align="center">I'm **Shanewaz Aurnob**
+
+🎓 **Computer Science & Engineering Graduate** — University of Chittagong  
+🤖 **AI & NLP Researcher** | 💻 **Software Engineer**
+
+I am a CSE graduate with a strong research focus on **Artificial Intelligence**, **Natural Language Processing**, and **Crisis Informatics**. My work primarily explores **Bangla NLP** and **social media–based crisis analysis** using machine learning and deep learning techniques.L 🌱</h3>
 
 ---
 
-### 🌟 About Me
-- 🔭 **Currently working on:** Smart Attendance System & AI/ML experiments  
-- 🌱 **Currently learning:** Next.js, TypeScript, TensorFlow.js  
-- 👯 **Looking to collaborate on:** Open-source web and mobile projects  
-- 💬 **Ask me about:** React, Node.js, AI/ML, Full-stack development  
-- ⚡ **Fun fact:** I love turning complex problems into elegant code solutions  
+## 🚀 About Me
+I build **web & mobile applications** with a touch of **AI/ML**.  
+I love learning new tech, collaborating on projects, and solving real-world problems with clean, efficient code.  
+
+- 🎯 **Current Focus:** AI/ML mini-projects  
+- 🌱 **Learning:** Next.js, TypeScript, TensorFlow.js  
+- 💡 **Passions:** Full-stack development, AI, Open-source contributions  
+- ⚡ **Fun Fact:** I turn coffee ☕ into code 💻  
 
 ---
 
-### 🛠 Tech Stack
+
+## 🛠️ My Toolbox
 
 **Languages:**  
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat) 
@@ -39,44 +38,34 @@ I am a CSE graduate with a strong research focus on **Artificial Intelligence**,
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) 
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)  
 
-**Backend:**  
+**Backend & BaaS:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) 
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) 
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)  
 
 **Mobile App:**  
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat)  
 
-**Database:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)  
-
-**BaaS & Tools:**  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) 
+**Design Tools:**  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)  
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShanewazAurnob&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShanewazAurnob&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShanewazAurnob" alt="GitHub Streak" />
-</p>
 
----
-
-### 📫 Contact Me
-- 📧 **Email:** shanewaz.aurnob@gmail.com  
+## 📫 Let's Connect
+- ✉️ **Email:** shanewaz.aurnob@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/shanewazaurnob](https://linkedin.com/in/shanewazaurnob)  
 - 🌐 **Portfolio:** [shanewazaurnob.com](https://shanewazaurnob.com)  
-- 💬 **Connect on LinkedIn:** [linkedin.com/in/shanewazaurnob](https://linkedin.com/in/shanewazaurnob)
+- 🐦 **Twitter:** [@shanewaz_aurnob](https://twitter.com/shanewaz_aurnob)  
 
 ---
 
+**“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
