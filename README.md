@@ -20,7 +20,6 @@ I love learning new tech, collaborating on projects, and solving real-world prob
 - 🎯 **Current Focus:** AI/ML mini-projects  
 - 🌱 **Learning:** Next.js, TypeScript, TensorFlow.js  
 - 💡 **Passions:** Full-stack development, AI, Open-source contributions  
-- ⚡ **Fun Fact:** I turn coffee ☕ into code 💻  
 
 ---
 
