@@ -5,7 +5,7 @@
 ![Header](./banner.png)
 
 <h1 align="center">Hello! 👋</h1>
-<h3 align="center">I'm **Shanewaz Aurnob**
+<h3 align="center">I'm **Shanewaz Aurnob
 
 🎓 **Computer Science & Engineering Graduate** — University of Chittagong  
 🤖 **AI & NLP Researcher** | 💻 **Software Engineer**
@@ -60,10 +60,10 @@ I love learning new tech, collaborating on projects, and solving real-world prob
 
 
 ## 📫 Let's Connect
-- ✉️ **Email:** shanewaz.aurnob@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/shanewazaurnob](https://linkedin.com/in/shanewazaurnob)  
+- ✉️ **Email:** aurnob.shanewaz@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/shanewaz-aurnob](https://linkedin.com/in/shanewaz-aurnob)  
 - 🌐 **Portfolio:** [shanewazaurnob.com](https://shanewazaurnob.com)  
-- 🐦 **Twitter:** [@shanewaz_aurnob](https://twitter.com/shanewaz_aurnob)  
+- 🐦 **Twitter:** [@shanewaz_aurnob](https://twitter.com/ShanewazAurnob)  
 
 ---
 
