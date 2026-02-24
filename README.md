@@ -63,7 +63,7 @@ I love learning new tech, collaborating on projects, and solving real-world prob
 ## 📫 Let's Connect
 - ✉️ **Email:** aurnob.shanewaz@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/shanewaz-aurnob](https://linkedin.com/in/shanewaz-aurnob)  
-- 🌐 **Portfolio:** [shanewazaurnob.com](https://shanewazaurnob.com)  
+- 🌐 **Portfolio:** [shanewazaurnob.com](https://shanewazaurnob.vercel.app)  
 - 🐦 **Twitter:** [@shanewaz_aurnob](https://twitter.com/ShanewazAurnob)  
 
 ---
